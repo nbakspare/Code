@@ -1,0 +1,9 @@
+To-Do list for the existing code + Future proj:
+- Refine code/Fix any errors being produced due to legacy code
+- Improve library persistence
+- Build a more user-friendly dashboard rather than Jupyter Notebook 
+- Build a flag-based automation system using the mean averted value so no longer have to be ran manually
+- Provide statistical inferences in a more condensed format
+- Additive model progression using machine learning
+- Added functionality of loess seasonality for noise smoothing
+- Flagged z-score system to be run daily
